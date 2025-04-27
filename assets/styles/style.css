@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fce4ec;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .container {
+    background-color: #fff0f5;
+    padding: 30px;
+    border-radius: 30px;
+    display: inline-block;
+  }
+  
+  #timer {
+    font-size: 48px;
+    margin: 20px 0;
+  }
+  
+  .buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 16px;
+  }
